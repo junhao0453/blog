@@ -510,7 +510,7 @@ html {
 }
 
 #footer > .row > .cell:not(:first-child) {
-    margin-left: 55px;
+    margin-left: 10px;
 }
 
 #footer > .row > .cell:not(:first-child) {
@@ -557,4 +557,3 @@ html {
 .bottom > .row > .cell {
     padding-left: 55px;
 }
-
